@@ -1,0 +1,443 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeideas\n"
+"POT-Creation-Date: 2013-05-27 01:34-0600\n"
+"PO-Revision-Date: 2013-05-27 01:37-0600\n"
+"Last-Translator: Carlos Leopoldo Magaña Zavala <carlos@carlosleopoldo.com>\n"
+"Language-Team: Neoideas <contacto@neoideas.mx>\n"
+"Language: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;__ngettext;_n;"
+"__ngettext_noop;_x;_nx;_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_c;_nc\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/carlos/Sites/themes/wp-content/themes/"
+"themeideas\n"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Lo sentimos! No se puede encontrar la página."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"No se ha encontrado contenido en esta dirección. Intenta con alguno de los "
+"siguientes enlaces o realiza una búsqueda."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/404.php:28
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/404.php:45
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intenta buscar en los archivos mensuales %1$s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:22
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Publicaciones en %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Publicaciones en %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Publicaciones de %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:40
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Publicaciones del día %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:43
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Publicaciones del mes %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Publicaciones del año %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:49
+msgid "Asides"
+msgstr "Mini publicación"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:52
+msgid "Images"
+msgstr "Imágenes"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:55
+msgid "Videos"
+msgstr "Videos"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:58
+msgid "Quotes"
+msgstr "Citas"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:61
+msgid "Links"
+msgstr "Enlaces"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/archive.php:64
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/sidebar.php:18
+msgid "Archives"
+msgstr "Archivos"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:30
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Un comentario en &ldquo;%2$s&rdquo;"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:37
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:57
+msgid "Comment navigation"
+msgstr "Navegación de los comentarios"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:38
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios más antiguos"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:39
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios más nuevos &rarr;"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:69
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-page.php:19
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-single.php:21
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:28
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:96
+msgid "Pages:"
+msgstr "Páginas"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-page.php:24
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-single.php:62
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:64
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:35
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:113
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:72
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:91
+msgid "Edit"
+msgstr "Editar"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-single.php:30
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-single.php:33
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:39
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:49
+msgid ", "
+msgstr ","
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-single.php:38
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Publicación etiquetada con %2$s. <a href=\"%3$s\" title=\"Enlace permanente "
+"para %4$s\" rel=\"bookmark\">Enlace permanente</a>."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-single.php:40
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"<a href=\"%3$s\" title=\"Enlace permanente para %4$s\" rel=\"bookmark"
+"\">Enlace permanente</a>."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-single.php:46
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Publicación en la categoría %1$s y etiquetada con %2$s. <a href=\"%3$s\" "
+"title=\"Enlace permanente para %4$s\" rel=\"bookmark\">Enlace permanente</a>."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content-single.php:48
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Publicación en la categoría %1$s. <a href=\"%3$s\" title=\"Enlace permanente "
+"para %4$s\" rel=\"bookmark\">Enlace permanente</a>."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:25
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:43
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:54
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Etiquetas %1$s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:61
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:61
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/content.php:61
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Una plataforma de publicación personal y semántica"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/footer.php:17
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Usando %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/footer.php:19
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s por %2$s."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/functions.php:49
+msgid "Primary Menu"
+msgstr "Menú primario"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/functions.php:102
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/header.php:32
+msgid "Menu"
+msgstr "Menú"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/header.php:33
+msgid "Skip to content"
+msgstr "Saltar a contenido"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:24
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Publicado el <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> de <a href=\"%3$s\" title=\"Enlace a imagen de "
+"tamaño real\">%4$s &times; %5$s</a> en <a href=\"%6$s\" title=\"regressor a "
+"%7$s\" rel=\"gallery\">%8$s</a>"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Siguiente <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:105
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Publica un comentario"
+"\">Publica un comentario</a> o deja un trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"URL para Trackbacks en esta publicación\" rel="
+"\"trackback\">URL para Trackbacks</a>."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:107
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Los comentarios están cerrados, pero puedes dejar un trackback: <a class="
+"\"trackback-link\" href=\"%s\" title=\"URL para Trackbacks en esta "
+"publicación\" rel=\"trackback\">URL para Trackbacks</a>."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:109
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Los trackbacks están cerrados, pero puedes <a class=\"comment-link\" href="
+"\"#respond\" title=\"Publicar un comentario\">publicar un comentario</a>."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:111
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Los comentarios y trackbacks está cerrados."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/no-results.php:14
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publican tu primer artículo? <a href=\"%1$s\">Comienza aquí</a>."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero no hay contenido que coincida con tus términos de "
+"búsqueda. Intenta una nueva búsqueda con palabras diferentes."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que estás buscando. Tal vez realizando "
+"una búsqueda te ayude."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados para: %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/searchform.php:10
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/searchform.php:13
+msgid "Search"
+msgstr "Buscar"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/searchform.php:12
+msgid "Search..."
+msgstr "Buscar…"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/sidebar.php:25
+msgid "Meta"
+msgstr "Meta"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:67
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:83
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:85
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:156
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:158
+msgid "Name"
+msgstr "Nombre"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:86
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:88
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:159
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:161
+msgid "Email"
+msgstr "Email"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:89
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:91
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:162
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:164
+msgid "Website"
+msgstr "Sitio web"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:96
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:169
+msgid "Comment"
+msgstr "Comentario"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:96
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:169
+msgid "Your comment…"
+msgstr "Tu comentario..."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:98
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:171
+#, php-format
+msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
+msgstr "Debes <a href=\"%1$s\">iniciar sesión</a> para publicar un comentario."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:100
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:173
+msgid "Leave a reply"
+msgstr "Deja un comentario"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:35
+msgid "Post navigation"
+msgstr "Navegación de la publicación"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:39
+msgid "&larr;"
+msgstr "&larr;"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:40
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:45
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Publicaciones más antiguas"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:49
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Publicaciones más nuevas <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:72
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:82
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dice:</span>"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:88
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser aprobado."
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:118
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> by "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"Publicado el <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> por "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:124
+#, php-format
+msgid "View all posts by %s"
+msgstr "Ver todas las publicaciones de %s"
+
+#~ msgid "Search &hellip;"
+#~ msgstr "Buscar &hellip;"
