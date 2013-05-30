@@ -28,7 +28,7 @@
 			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 		</div>
 
-		<nav id="site-navigation" class="navbar navigation-main" role="navigation">
+		<nav id="site-navigation" class="navbar navbar-inverse navigation-main" role="navigation">
 			<div class="navbar-inner">
 				<ul class="nav">
 					<?php

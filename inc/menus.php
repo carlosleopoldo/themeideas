@@ -10,6 +10,11 @@
 if ( !defined( 'ABSPATH' ) ) exit;
 
 /*
+ * Remove WordPress admin bar all together
+ */
+add_filter( 'show_admin_bar', '__return_false' );
+
+/*
  * Produces a list of links to use as small menu
  */
 function themeideas_small_menu( $args ) {
