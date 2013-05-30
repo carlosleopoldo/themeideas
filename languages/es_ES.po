@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Themeideas\n"
-"POT-Creation-Date: 2013-05-27 01:34-0600\n"
-"PO-Revision-Date: 2013-05-27 01:37-0600\n"
+"POT-Creation-Date: 2013-05-30 12:23-0600\n"
+"PO-Revision-Date: 2013-05-30 12:27-0600\n"
 "Last-Translator: Carlos Leopoldo Magaña Zavala <carlos@carlosleopoldo.com>\n"
 "Language-Team: Neoideas <contacto@neoideas.mx>\n"
 "Language: Spanish\n"
@@ -10,15 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
-"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;__ngettext;_n;"
-"__ngettext_noop;_x;_nx;_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;"
-"esc_html__;esc_html_e;esc_html_x;_c;_nc\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: /Users/carlos/Sites/themes/wp-content/themes/"
 "themeideas\n"
 
+# http://www.cssigniter.com/ignite/wordpress-poedit-translation-secrets/
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/404.php:16
 msgid "Oops! That page can&rsquo;t be found."
 msgstr "¡Lo sentimos! No se puede encontrar la página."
@@ -97,8 +98,11 @@ msgstr "Archivos"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:30
 #, php-format
+msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
-msgstr "Un comentario en &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:37
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/comments.php:57
@@ -227,14 +231,6 @@ msgstr "Menú primario"
 msgid "Sidebar"
 msgstr "Barra lateral"
 
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/header.php:32
-msgid "Menu"
-msgstr "Menú"
-
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/header.php:33
-msgid "Skip to content"
-msgstr "Saltar a contenido"
-
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/image.php:24
 #, php-format
 msgid ""
@@ -324,13 +320,17 @@ msgid "Search Results for: %s"
 msgstr "Resultados para: %s"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/searchform.php:10
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/searchform.php:13
+msgctxt "assistive text"
 msgid "Search"
 msgstr "Buscar"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/searchform.php:12
 msgid "Search..."
 msgstr "Buscar…"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/searchform.php:13
+msgid "Search"
+msgstr "Buscar"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/sidebar.php:25
 msgid "Meta"
@@ -343,55 +343,52 @@ msgstr "Página %s"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:83
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:85
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:156
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:158
 msgid "Name"
 msgstr "Nombre"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:86
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:88
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:159
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:161
 msgid "Email"
 msgstr "Email"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:89
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:91
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:162
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:164
 msgid "Website"
 msgstr "Sitio web"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:96
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:169
+msgctxt "noun"
 msgid "Comment"
 msgstr "Comentario"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:96
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:169
 msgid "Your comment…"
 msgstr "Tu comentario..."
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:98
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:171
 #, php-format
 msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
 msgstr "Debes <a href=\"%1$s\">iniciar sesión</a> para publicar un comentario."
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/extras.php:100
-#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/tweaks.php:173
 msgid "Leave a reply"
 msgstr "Deja un comentario"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/menus.php:22
+msgid "Home"
+msgstr "Inicio"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:35
 msgid "Post navigation"
 msgstr "Navegación de la publicación"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:39
+msgctxt "Previous post link"
 msgid "&larr;"
 msgstr "&larr;"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:40
+msgctxt "Next post link"
 msgid "&rarr;"
 msgstr "&rarr;"
 
@@ -414,6 +411,7 @@ msgstr "%s <span class=\"says\">dice:</span>"
 
 #: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/template-tags.php:88
 #, php-format
+msgctxt "1: date, 2: time"
 msgid "%1$s at %2$s"
 msgstr "%1$s a las %2$s"
 
@@ -438,6 +436,12 @@ msgstr ""
 #, php-format
 msgid "View all posts by %s"
 msgstr "Ver todas las publicaciones de %s"
+
+#~ msgid "Menu"
+#~ msgstr "Menú"
+
+#~ msgid "Skip to content"
+#~ msgstr "Saltar a contenido"
 
 #~ msgid "Search &hellip;"
 #~ msgstr "Buscar &hellip;"
