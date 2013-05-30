@@ -28,11 +28,23 @@
 			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 		</div>
 
-		<nav id="site-navigation" class="navigation-main" role="navigation">
-			<h1 class="menu-toggle"><?php _e( 'Menu', 'themeideas' ); ?></h1>
-			<div class="screen-reader-text skip-link"><a href="#content" title="<?php esc_attr_e( 'Skip to content', 'themeideas' ); ?>"><?php _e( 'Skip to content', 'themeideas' ); ?></a></div>
-
-			<?php wp_nav_menu( array( 'theme_location' => 'primary', 'container' => '' ) ); ?>
+		<nav id="site-navigation" class="navbar navigation-main" role="navigation">
+			<div class="navbar-inner">
+				<ul class="nav">
+					<?php
+						$args = array(
+							'theme_location'=> 'primary',
+							'depth'			=> 3,
+							'container'		=> false,
+							'menu_class'	=> '',
+							'fallback_cb'	=> 'themeideas_small_menu',
+							'walker'		=> new Twitter_Bootstrap_Walker_Nav_Menu(),
+							'items_wrap'	=> '%3$s'
+						);
+						wp_nav_menu( $args );
+					?>
+				</ul>
+			</div>
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
 
