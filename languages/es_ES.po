@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Themeideas\n"
-"POT-Creation-Date: 2013-05-30 12:23-0600\n"
-"PO-Revision-Date: 2013-05-30 12:27-0600\n"
+"POT-Creation-Date: 2013-06-03 21:32-0600\n"
+"PO-Revision-Date: 2013-06-03 21:35-0600\n"
 "Last-Translator: Carlos Leopoldo Magaña Zavala <carlos@carlosleopoldo.com>\n"
 "Language-Team: Neoideas <contacto@neoideas.mx>\n"
 "Language: Spanish\n"
@@ -436,6 +436,88 @@ msgstr ""
 #, php-format
 msgid "View all posts by %s"
 msgstr "Ver todas las publicaciones de %s"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:38
+msgid "Sample Checkbox"
+msgstr "Casilla de verificación de ejemplo"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:44
+msgid "Sample Text Input"
+msgstr "Campo de texto de ejemplo"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:45
+msgid "Sample Select Options"
+msgstr "Selección de opciones de ejemplo"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:46
+msgid "Sample Radio Buttons"
+msgstr "Radios de ejemplo"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:47
+msgid "Sample Textarea"
+msgstr "Área de texto de ejemplo"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:74
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:75
+msgid "Theme options"
+msgstr "Opciones del Theme"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:92
+msgid "Zero"
+msgstr "Cero"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:96
+msgid "One"
+msgstr "Uno"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:100
+msgid "Two"
+msgstr "Dos"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:104
+msgid "Three"
+msgstr "Tres"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:108
+msgid "Four"
+msgstr "Cuatro"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:112
+msgid "Five"
+msgstr "Cinco"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:128
+msgid "Yes"
+msgstr "Sí"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:132
+msgid "No"
+msgstr "No"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:136
+msgid "Maybe"
+msgstr "Tal vez"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:174
+msgid "A sample checkbox."
+msgstr "Una casilla de verificación de ejemplo"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:186
+msgid "Sample text input"
+msgstr "Campo de texto de ejemplo"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:212
+msgid "Sample select input"
+msgstr "Campo de selección de ejemplo"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:243
+msgid "Sample textarea"
+msgstr "Área de texto de ejemplo"
+
+#: /Users/carlos/Sites/themes/wp-content/themes/themeideas/inc/theme-options/theme-options.php:257
+#, php-format
+msgid "Options of %s theme"
+msgstr "Opciones del tema %s"
 
 #~ msgid "Menu"
 #~ msgstr "Menú"
